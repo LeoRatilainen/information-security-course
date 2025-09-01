@@ -28,7 +28,7 @@
   
   Actions on target - Only after all six previous objectives are complited can you take the intended action on the target
 
-Question - i think the subject is quite hard to understand as someone who doesn't have much prior knowledge of the subject. But i do find them quite fun to learn about
+Comment - i think the subject is quite hard to understand as someone who doesn't have much prior knowledge of the subject. But i do find them quite fun to learn about
   
 ## a)
 
@@ -40,7 +40,7 @@ phising in which the attacker sends phising messages to gain access to the victi
 -Procedures are the specific implementations of how an attacker uses these techiques and sub-techniques. The techincal implementation of these. One exmaple of a procedure in content injection is MoustachedBouncer in which it injects content into DNS, HTTP and SMB replies to fake windows updates to dowload malware.
 And one exmaple of a phishing procedure could be Royal in which a phishing campaing has lured the victim into calling a number provided in an email.
 
-Question - I find it hard to understand most of the procedures with no prior knowledge of how to do anything on technical side.
+Comment - I find it hard to understand most of the procedures with no prior knowledge of how to do anything on technical side.
 
 ## b)
 
