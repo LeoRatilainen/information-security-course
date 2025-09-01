@@ -29,6 +29,7 @@
   Actions on target - Only after all six previous objectives are complited can you take the intended action on the target
   
 ## a)
+
 -A tactic represents the why of a techique or sub-technique. The intruders goal. One exmaple of tactic is Initial access which consists of tecniques an attacker might use to gain access
 
 -techiques represent how an attacker might achieve their goals and sub-techniques are more specified versions of an attackers behavior. One example of a technique in initial access can be content injection in which an attacker injects malicious content into the system. And one example of a sub-technique could be
@@ -40,3 +41,12 @@ And one exmaple of a phishing procedure could be Royal in which a phishing campa
 ## b)
 
 <img width="686" height="404" alt="Screenshot 2025-09-02 005452" src="https://github.com/user-attachments/assets/e50147ed-9c2c-4bc9-883e-06443f492961" />
+
+## Sources
+Karvinen 2024: Information Security Course, https://terokarvinen.com/information-security/
+
+Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains, https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf read: 02.09.2025
+
+MITRE ATT&CK, https://attack.mitre.org/ read: 02.09.2025
+
+MITRE ATT&CK, Frequently Asked Questions, https://attack.mitre.org/resources/faq/#general-faq read: 02.09.2025
