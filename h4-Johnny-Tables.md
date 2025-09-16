@@ -45,8 +45,10 @@
 
 <img width="610" height="434" alt="Screenshot_2025-09-16_12-52-43" src="https://github.com/user-attachments/assets/31efbec4-25df-40b7-99af-ab8252654ff6" />
 
-
 # b)
+I could not for the life of me get this part working even after multiple redownloads, updates and guides on the opertaing system, java and webgoat and trying different commands it would always just return me with the same line when trying to change the port of webgoat:
+
+bash: java: command not found
 # c)
 The update was quite Large so i can't get everything to fit here but here's a small exmaple
 
@@ -65,6 +67,11 @@ The lab is solved but writing '+OR+1=1-- in the URL after category,
 you use a single quote to close the previous querie and then writing OR 1=1 which is a new condition that always evaluates the true and then you use two dashes to say everything after this is a comment.
 
 <img width="949" height="648" alt="Screenshot 2025-09-16 121235" src="https://github.com/user-attachments/assets/a542c598-09d9-47db-8919-9308541fe5ae" />
+
+# n)
+
+<img width="933" height="535" alt="Screenshot 2025-09-16 122633" src="https://github.com/user-attachments/assets/5d5d7c8f-de1c-41ca-80df-3580edec5a41" />
+
 
 # Sources
 
