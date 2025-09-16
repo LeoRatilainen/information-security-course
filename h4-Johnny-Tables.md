@@ -84,3 +84,5 @@ https://owasp.org/Top10/A05_2021-Security_Misconfiguration/
 https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/
 
 https://owasp.org/Top10/A03_2021-Injection/
+
+https://portswigger.net/
