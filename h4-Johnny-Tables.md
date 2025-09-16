@@ -42,8 +42,17 @@
   - Preferred option is to use a safe API that doesn't use interpreters at all.
   - Use positive server-side input validation.
 # a)
+
+<img width="610" height="434" alt="Screenshot_2025-09-16_12-52-43" src="https://github.com/user-attachments/assets/31efbec4-25df-40b7-99af-ab8252654ff6" />
+
+
 # b)
 # c)
+The update was quite Large so i can't get everything to fit here but here's a small exmaple
+
+<img width="937" height="519" alt="Screenshot_2025-09-16" src="https://github.com/user-attachments/assets/3ac5fdae-f933-4454-ae42-54280a348a62" />
+
+After this i restarted my PC
 # d)
 ### 0 SELECT from basics
 <img width="1088" height="917" alt="Screenshot 2025-09-16 120819" src="https://github.com/user-attachments/assets/df1756d8-1ecc-4552-a807-dd712092bcb9" />
