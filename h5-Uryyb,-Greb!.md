@@ -13,9 +13,15 @@
 - Both parties need to know each others public keys for trust to be established.
 
 # a)
-
+I installed OpenSSH with 'sudo apt-get install ssh', 'then used sudo systemctl start ssh' to start the program, then used 'ssh leor@localhost' with my password to connect to my local host. You can use 'exit' whenever you wish to stop using that localhost
+<img width="827" height="519" alt="SSH-connection" src="https://github.com/user-attachments/assets/f0ad634b-927f-48ba-bd91-4810a3a93ceb" />
 # b)
+I used 'ssh keygen' to generate a key and then used 'ssh-copy-id leor@localhost' to connect the generated key to my localhost this will automate the signing in process and a password is no longer need to login.
+<img width="827" height="519" alt="ssh-connection-automated" src="https://github.com/user-attachments/assets/041fab2d-42df-4469-861b-8ae8e00b35b5" />
+
+
 # c)
+
 # Sources
 
 https://www.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/08_chap01.html#chap01-sec006
