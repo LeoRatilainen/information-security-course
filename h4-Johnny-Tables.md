@@ -43,8 +43,6 @@
   - Use positive server-side input validation.
 # a)
 
-<img width="610" height="434" alt="Screenshot_2025-09-16_12-52-43" src="https://github.com/user-attachments/assets/31efbec4-25df-40b7-99af-ab8252654ff6" />
-
 # b)
 I could not for the life of me get this part working even after multiple redownloads, reboots, updates and guides on the opertaing system, java and webgoat and trying different commands it would always just return me with the same line when trying to change the port of webgoat:
 
@@ -86,3 +84,6 @@ https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/
 https://owasp.org/Top10/A03_2021-Injection/
 
 https://portswigger.net/
+
+##Updated on 28/09/2025
+deleted wrong picture.
