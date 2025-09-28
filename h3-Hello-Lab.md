@@ -5,15 +5,19 @@ The second link is terminal commands which the most useful ones for normal use w
 # a)
 When pinging a web address without internet line "icmp_seq=1 Destination Net Unreachable" the output lines mean.
 
--"icmp_seq=1" is the number of the ICMP packet which in thi case is stuck at one since without a network it can't proceed.
+<img width="1280" height="773" alt="Ping_test" src="https://github.com/user-attachments/assets/093d130e-9e0b-42df-b7a0-02ea1f9e3b65" />
 
--"Destionation net Unreachable" means jsut simply that the network that's being pinged can't be found.
+- "icmp_seq=1" is the number of the ICMP packet which in thi case is stuck at one since without a network it can't proceed.
+
+- "Destionation net Unreachable" means jsut simply that the network that's being pinged can't be found.
 
 When pinging the same web server with connection the line "64 bytes from 1.1.1.1: icmp_seq=1 ttl=225 time=37.6 ms" in this the output lines mean.
 
--"64 bytes from 1.1.1.1" the size of the ICMP pack and where it came from.
+<img width="1280" height="773" alt="Ping_network" src="https://github.com/user-attachments/assets/30611442-391c-4348-b7d2-c344e9d07384" />
 
--"icmp_seq=1" this is the sequence number of the ping request my example shows 1 but this will keep going up the each request sent.
+- "64 bytes from 1.1.1.1" the size of the ICMP pack and where it came from.
+
+- "icmp_seq=1" this is the sequence number of the ping request my example shows 1 but this will keep going up the each request sent.
 
 -"ttl=225" Time to live. Each router hop it took the get here this is also variable.
 
@@ -22,14 +26,17 @@ When pinging the same web server with connection the line "64 bytes from 1.1.1.1
 # b)
 port scanning is used to check ports which are virtual endpoints for communication a port scanner sends packages to a range of ports and based on the responses it it shows open ports, closed ports and filtered ports.
 
--Open ports means a service is actively listening.
+- Open ports means a service is actively listening.
 
--closed port means no service is listening but it replied nothing here.
+- closed port means no service is listening but it replied nothing here.
 
--flitered port means a firewall blocked the probe and no message was received.
+- flitered port means a firewall blocked the probe and no message was received.
 
 When i portscan my localhost it shows you alot of information most of what i do not understand what it means, but to me the device
 type section looks very interesting it shows operating system information including kernel level info.
+
+<img width="1280" height="773" alt="Portscan_localhost" src="https://github.com/user-attachments/assets/f102e319-d526-47f2-ac2b-41fe1d1bd842" />
+
 # c)
 If portscanned again with apache installed the section that changes is in PORT STATE SERVICE VERSION 
 it opens port 80/tcp where it runs that port and it's added to the scan.
@@ -55,3 +62,7 @@ in this level you need to find the password in a hidden directory this can be fo
 https://terokarvinen.com/2021/install-debian-on-virtualbox/
 
 https://terokarvinen.com/2020/command-line-basics-revisited/
+
+## updated on 28/09/2025
+
+Added pictures for improved visual clarity
