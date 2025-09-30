@@ -51,4 +51,11 @@ still tools that can be used to try and capture criminal such as gaining control
 and exit nodes as possible and a man-in-the-middle atttack.
 - The most common goal of these is to identify the true IP address.
 # a)
-# b)
+<img width="827" height="519" alt="Tor_browser" src="https://github.com/user-attachments/assets/f119d6bd-8e85-48aa-8faa-e8a761ceb2e7" />
+# b) 
+<img width="1282" height="775" alt="Search_engine" src="https://github.com/user-attachments/assets/0842d6c2-c1d3-49b3-83f8-cdaa0586c8ce" />
+
+<img width="1282" height="775" alt="marketplace" src="https://github.com/user-attachments/assets/304ee1db-d70d-4684-839f-6fbe89f0966d" />
+
+<img width="1282" height="775" alt="Forum" src="https://github.com/user-attachments/assets/ddb50cc1-7195-40ec-b34c-8172a8a1c8b2" />
+<img width="1282" height="775" alt="Org" src="https://github.com/user-attachments/assets/fa9ab65b-7781-46b3-8fc2-749d91015d52" />
