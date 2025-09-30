@@ -51,11 +51,18 @@ still tools that can be used to try and capture criminal such as gaining control
 and exit nodes as possible and a man-in-the-middle atttack.
 - The most common goal of these is to identify the true IP address.
 # a)
+
 <img width="827" height="519" alt="Tor_browser" src="https://github.com/user-attachments/assets/f119d6bd-8e85-48aa-8faa-e8a761ceb2e7" />
+
 # b) 
+- This is ahmia a finnish serach engine developed by Juha Nurmi for .onion addresses.
 <img width="1282" height="775" alt="Search_engine" src="https://github.com/user-attachments/assets/0842d6c2-c1d3-49b3-83f8-cdaa0586c8ce" />
 
+- This is a marketplace called venus marketplace they seemed to be in the business of selling some illegal good such as guns and drugs. also claimed to be one of the best marketplaces on the darknet.
 <img width="1282" height="775" alt="marketplace" src="https://github.com/user-attachments/assets/304ee1db-d70d-4684-839f-6fbe89f0966d" />
 
+- Here is a forum called DarkNet Army i don't know much about the site itself but from a quick look there seemed to be some normal darknet conversations, alerts for scams which atleast looked good and then more shady stuff like leaked user credentials.
 <img width="1282" height="775" alt="Forum" src="https://github.com/user-attachments/assets/ddb50cc1-7195-40ec-b34c-8172a8a1c8b2" />
+
+- This is the website for Yle their street address is right across the street from our Pasila campus.
 <img width="1282" height="775" alt="Org" src="https://github.com/user-attachments/assets/fa9ab65b-7781-46b3-8fc2-749d91015d52" />
