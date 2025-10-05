@@ -1,4 +1,24 @@
 # H1 Should Tero wear a helmet?
+## x)
+### Threat modeling summarized
+
+- Threat modeling in highlighting concernes about security and privacy.
+- The highest level of this is asking four questions.
+	1. What are we working on?
+	2. What can go wrong?
+	3. What are we going to do about it?
+	4. Did we do a good enough job?
+- Everyone should threat model to some degree.
+- The values of threat modeling are
+	1. Finding and fixind design issues.
+	2. Journey of understanding.
+	e. Continuous refinement.
+
+### Infosec scene
+
+I chose episode 40 which talks about a red teamer named Kyle and his adventures trying to legally hack a utility company in the US.
+A red teamer is someone who is hired to digitally or physically break into a network or a building respectively for the purposes of the company simulating an actual attack scenario so they can improve their security.
+I don't want to talk about too about the episode i think it's really funny, but essentially it goes over how he physically got access to four office buildings of this company and the different security flaws they had.
 
 ## a) Security hygiene.
 What security practices everyone should follow?
@@ -20,11 +40,14 @@ The main thing we need to keep in mind while building that website is making sur
 are construced with proper encryption methods
 ### (4) Did we do a good enough job?
 A good security is an ever involving process and threat models need to always be kept in mind and updated as the process keeps going this also entails constant testing of security, but i feel like this is a good start to my threat model
-## References
+
+## Sources 
 Karvinen 2024: Information Security Course, https://terokarvinen.com/information-security/
 
 Shostack 2022: Welcome to the Worlds Shortest Threat Modeling Course (12 parts, about 15 min total, audio is enough for all except video 7 "Data flow diagrams"), https://www.youtube.com/playlist?list=PLCVhBqLDKoOOZqKt74QI4pbDUnXSQo0nf
 
 OWASP CheatSheets Series Team 2021: Threat Modeling Cheat Sheet https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html
 
-Rhysider, Jack. 26.10.2023 They Hired Him to Snoop a Target, but Something Felt Very Wrong🎙Darknet Diaries Ep. 99: The Spy Darknet Diaries-podcast https://www.youtube.com/watch?v=3iAlCImWD2w
+Rhysider, Jack. 08.09.2022, It Shouldn't Be THIS Easy to Break Into a Utility Company🎙Darknet Diaries Ep. 40: No Parking https://www.youtube.com/watch?v=3iAlCImWD2w
+
+# Updated on 05.10.2025 to include a missing section 
