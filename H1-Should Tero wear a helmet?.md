@@ -52,4 +52,6 @@ OWASP CheatSheets Series Team 2021: Threat Modeling Cheat Sheet https://cheatshe
 
 Rhysider, Jack. 08.09.2022, It Shouldn't Be THIS Easy to Break Into a Utility Company🎙Darknet Diaries Ep. 40: No Parking https://www.youtube.com/watch?v=3iAlCImWD2w
 
-# Updated on 05.10.2025 to include a missing section 
+# Updated on 05.10.2025
+
+Included a missing section 
