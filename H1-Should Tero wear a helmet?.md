@@ -17,7 +17,9 @@
 ### Infosec scene
 
 I chose episode 40 which talks about a red teamer named Kyle and his adventures trying to legally hack a utility company in the US.
+
 A red teamer is someone who is hired to digitally or physically break into a network or a building respectively for the purposes of the company simulating an actual attack scenario so they can improve their security.
+
 I don't want to talk about too about the episode i think it's really funny, but essentially it goes over how he physically got access to four office buildings of this company and the different security flaws they had.
 
 ## a) Security hygiene.
