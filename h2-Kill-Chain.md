@@ -55,4 +55,5 @@ MITRE ATT&CK, https://attack.mitre.org/ read: 02.09.2025
 
 MITRE ATT&CK, Frequently Asked Questions, https://attack.mitre.org/resources/faq/#general-faq read: 02.09.2025
 
-# Updated on 05.10.2025 to fix some typos
+# Updated on 05.10.2025
+Fixed some typos
