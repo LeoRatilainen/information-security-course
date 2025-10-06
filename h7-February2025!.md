@@ -15,4 +15,10 @@
 - Hash function is public: The security is in the one-wayness. The output is not dependent on the input.
   
 # a) Install Hashcat
+
+<img width="827" height="519" alt="Hashcat_install" src="https://github.com/user-attachments/assets/5d73a515-9edc-485f-9164-7566a2a2768e" />
+
+
+
 # b)Crack this hash: d595b2086532422bbe654bc07ea030df
+<img width="827" height="519" alt="Hash_cracked" src="https://github.com/user-attachments/assets/ce6166b1-d970-40b0-8552-3eecbe732151" />
