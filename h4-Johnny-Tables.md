@@ -42,11 +42,25 @@
   - Preferred option is to use a safe API that doesn't use interpreters at all.
   - Use positive server-side input validation.
 # a)
+
+- I wasn't able to get java 17 downloaded with the commands given so i manually downloaded java 21 from the web, this seemed to work just as well
+- After this i downloaded webgoat with the command 'wget https://github.com/WebGoat/WebGoat/releases/download/v2023.4/webgoat-2023.4.jar'
+  
 <img width="827" height="519" alt="Webgoat_download" src="https://github.com/user-attachments/assets/cf44cf8e-5ec2-4b0e-af81-d88d2968b593" />
 
 # b)
+- I then disabled my networking and ran webgoat with localhost in port8888 with the command 'java -Dfile.encoding=UTF-8 -Dwebgoat.port=8888 -Dwebwolf.port=9090 -jar webgoat-2023.4.jar'
+
 <img width="819" height="489" alt="Webgoat_startup" src="https://github.com/user-attachments/assets/2b37265c-873a-4899-8504-333966b49267" />
+
+- Solving the first part was done with the command 'webgoat.customjs.phoneHome()' typed into the console.
+- you can then look at the response and that'll give you the answer which in this case was "-1196949528", althought this is randomized everytime the request is made.
+  
 <img width="1273" height="682" alt="webgoat-part1" src="https://github.com/user-attachments/assets/172c49e0-499e-4831-b7c5-29e3bd6eb409" />
+
+- Solving the second part was done by finding the correct network activity and checking the request tab for the code.
+- this then displays the code needed to complete the assingment which in this case was '12.922941108655783' but once again this is randomized everytime the request is made.
+
 <img width="1278" height="726" alt="webgoat_part2" src="https://github.com/user-attachments/assets/f0a75ff9-b738-49db-9851-93b7ca0e7d89" />
 
 # c)
@@ -68,11 +82,6 @@ you use a single quote to close the previous querie and then writing OR 1=1 whic
 
 <img width="949" height="648" alt="Screenshot 2025-09-16 121235" src="https://github.com/user-attachments/assets/a542c598-09d9-47db-8919-9308541fe5ae" />
 
-# n)
-
-<img width="933" height="535" alt="Screenshot 2025-09-16 122633" src="https://github.com/user-attachments/assets/5d5d7c8f-de1c-41ca-80df-3580edec5a41" />
-
-
 # Sources
 
 https://terokarvinen.com/information-security/
@@ -87,5 +96,7 @@ https://owasp.org/Top10/A03_2021-Injection/
 
 https://portswigger.net/
 
-## Updated on 28/09/2025
+# Updated on 28/09/2025
 deleted wrong picture.
+# Updated on 06/10/2025
+took another crack at webgoat and was able to get it working and solved this time around.
