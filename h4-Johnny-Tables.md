@@ -42,11 +42,13 @@
   - Preferred option is to use a safe API that doesn't use interpreters at all.
   - Use positive server-side input validation.
 # a)
+<img width="827" height="519" alt="Webgoat_download" src="https://github.com/user-attachments/assets/cf44cf8e-5ec2-4b0e-af81-d88d2968b593" />
 
 # b)
-I could not for the life of me get this part working even after multiple redownloads, reboots, updates and guides on the opertaing system, java and webgoat and trying different commands it would always just return me with the same line when trying to change the port of webgoat:
+<img width="819" height="489" alt="Webgoat_startup" src="https://github.com/user-attachments/assets/2b37265c-873a-4899-8504-333966b49267" />
+<img width="1273" height="682" alt="webgoat-part1" src="https://github.com/user-attachments/assets/172c49e0-499e-4831-b7c5-29e3bd6eb409" />
+<img width="1278" height="726" alt="webgoat_part2" src="https://github.com/user-attachments/assets/f0a75ff9-b738-49db-9851-93b7ca0e7d89" />
 
-bash: java: command not found
 # c)
 The update was quite Large so i can't get everything to fit here but here's a small exmaple
 
